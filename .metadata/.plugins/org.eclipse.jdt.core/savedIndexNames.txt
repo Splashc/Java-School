@@ -6,7 +6,6 @@ INDEX VERSION 1.131+C:\Users\plopk\eclipse-workspace\.metadata\.plugins\org.ecli
 2102499765.index
 3445874060.index
 1392986159.index
-192988757.index
 2011918314.index
 221998394.index
 3127176474.index
