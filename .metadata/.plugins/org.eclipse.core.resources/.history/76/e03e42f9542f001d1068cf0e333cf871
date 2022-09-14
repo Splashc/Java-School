@@ -1,0 +1,13 @@
+package uitlegt1;
+
+public class Uitleg1
+{
+
+	public static void main(String[] args)
+	{
+		// TODO Auto-generated method stub
+		int getal;
+		getal = getal+1;
+	}
+
+}

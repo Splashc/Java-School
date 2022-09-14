@@ -1,0 +1,20 @@
+
+public class btw
+{
+
+	public static void main(String[] args)
+	{
+
+	    public static void main(String[] args)
+	    {
+	        float priceItem = 20; 
+
+	        float priceItemPostTax = priceItem / 100 * 79;
+
+	        System.out.print(priceItemPostTax);
+
+
+
+	    }
+
+	}
