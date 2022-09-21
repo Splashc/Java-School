@@ -4,5 +4,9 @@
 /.index/
 /.xml/
 /.xmi/
+/.snap/
+/.dat/
+/.classpath/
+/.prefs/
 /.gitignore/
 /.metadata/
