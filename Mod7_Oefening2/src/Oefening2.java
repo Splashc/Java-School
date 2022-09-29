@@ -7,13 +7,16 @@ public class Oefening2
 	{
 		// TODO Auto-generated method stub
 		Scanner keyboard = new Scanner(System.in);
-		System.out.print("Voer heel getal 1 in: ");
+		System.out.print("Voer en getal in: ");
 		int getal = keyboard.nextInt();
-		System.out.print("Voer heel getal 2 in: ");
-		int getal2 = keyboard.nextInt();
-		int totaal = getal + getal2;
-		System.out.println("Het totaal is " + totaal);
-		keyboard.close();
-	}	
-}
 
+		if (getal < 0)
+		{
+			System.out.print("Het getal is negatief");
+		} else
+		{
+			System.out.println("Het getal is posetief");
+		}
+		keyboard.close();
+	}
+}

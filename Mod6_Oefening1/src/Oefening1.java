@@ -12,5 +12,4 @@ public class Oefening1
 		System.out.println("Het ingevoerde getal is: " + inputNumber);
 		keyboard.close();
 	}
-
 }
