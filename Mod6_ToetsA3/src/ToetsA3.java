@@ -15,7 +15,7 @@ public class ToetsA3
 		double reactietijd = keyboard.nextDouble();
 		
 		double remweg = reactietijd * snelheid / 3.6;
-		System.out.println("Remweg is " + remweg + " Meter");
+		System.out.println("\nRemweg is " + remweg + " Meter");
 		keyboard.close();
 
 	}
